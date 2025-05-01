@@ -1,1 +1,2 @@
 One should be able to run my code with anything that runs python. If one wants to tests the code, they can uncomment a start_board list, comment the unused start board lists, adjust N to the width of the desired puzzle, and change each individial number of the start_board in the if __name__ == '__main__': block.
+If one wants better performance, perhaps using Google Colab may be to their liking. Just copy and paste the code into a Google colab cell and run the cell for output.
